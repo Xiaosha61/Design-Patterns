@@ -1,2 +1,2 @@
 # Design-Patterns
-Following the book: HeadFirstDesignPatterns.
+Simple examples during learning Design patterns.
