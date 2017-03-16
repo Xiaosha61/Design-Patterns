@@ -1,2 +1,2 @@
 # Design-Patterns
-Following the book: HeadFirstDesignPatterns.
+Mostly following the book: << Head First Design Patterns >>
